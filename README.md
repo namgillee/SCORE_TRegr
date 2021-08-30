@@ -1,1 +1,1 @@
-# SCORE_TRegr
+# TRegr-SCORE
